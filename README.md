@@ -144,7 +144,7 @@ Implemented using Log4j2 for better debugging and execution tracking.
 
 ## Clone Repository
 
-git clone https://github.com/your-username/restassured-advanced-framework.git
+[git clone https://github.com/BhagyaAutomationX/restassured-advanced-framework.git]
 
 ---
 
